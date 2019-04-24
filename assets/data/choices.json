@@ -1,0 +1,41 @@
+{
+    "status_choices": [{
+            "key": "Disponible",
+            "value": "Disponible"
+        },
+        {
+            "key": "No disponible",
+            "value": "No disponible"
+        },
+        {
+            "key": "Proximamente",
+            "value": "Proximamente"
+        }
+    ],
+    "modality_choices": [{
+            "key": "Online",
+            "value": "Online"
+        },
+        {
+            "key": "Presencial",
+            "value": "Presencial"
+        },
+        {
+            "key": "Semi presencial",
+            "value": "Semi presencial"
+        }
+    ],
+    "level_choices": [{
+            "key": "Basico",
+            "value": "Basico"
+        },
+        {
+            "key": "Intermedio",
+            "value": "Intermedio"
+        },
+        {
+            "key": "Avanzado",
+            "value": "Avanzado"
+        }
+    ]
+}
